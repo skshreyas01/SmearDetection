@@ -18,3 +18,4 @@ Masked Image : masked_final_img.jpg
  -- cv2
  -- Numpy
  -- imutils
+[![New Bitmap Image.jpg](https://s21.postimg.org/qv97nw8gn/New_Bitmap_Image.jpg)](https://postimg.org/image/iczrjk1xv/)
